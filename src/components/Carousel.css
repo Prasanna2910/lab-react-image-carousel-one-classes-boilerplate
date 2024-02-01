@@ -1,1 +1,8 @@
 /* write your carousel css in this file */
+.images{
+    width: 200px;
+}
+.flex{
+    display: flex;
+    align-items: center;
+}
